@@ -8,3 +8,4 @@
 * Robin
 * Volcán Negro
 * Átomo
+* Lobezno
